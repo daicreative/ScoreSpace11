@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="250-50000"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>/Users/ethanbuttimer/Documents/Unity/ScoreSpace11/Maya/net_02.ma</extra>
+  <extra>maya 2020</extra>
+  <extra>ethanbuttimer</extra>
+  <Channels>
+    <channel0 ChannelName="outputCloth2" ChannelType="DoubleVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="50000"/>
+    <channel1 ChannelName="outputCloth2_normals" ChannelType="DoubleVectorArray" ChannelInterpretation="normals" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="50000"/>
+  </Channels>
+</Autodesk_Cache_File>
